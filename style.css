@@ -131,13 +131,20 @@ p{
 
 .bottom-container{
     position: relative;
-    display: block;
+    padding: 50px 0 20px ;
+
     background-color:#66bfbf;
     margin-top: 100px;
     height: 100%;
 }
-
-
+.copyright{
+    color: rgb(230, 222, 222);
+}
+a{
+    margin: 10px 20px;
+    text-decoration: none;
+    color: #11999e;
+}
 
 
 
