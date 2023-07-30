@@ -1,0 +1,146 @@
+body{
+    text-align: center;
+    align-items: center;
+    font-family: 'Merriweather Sans', sans-serif;
+    margin: 0;
+}
+.top-container{
+    background-color:hsl(169, 64%, 94%);
+    position: relative;
+    color:#66bfbf;
+    padding: 100px;
+
+
+}
+.text{
+    position: relative;
+    display: block;
+}
+.heading{
+    font-family: 'Sacramento', cursive;
+    font-weight: bold;
+    font-size: 5.625rem;
+
+}
+.pro{
+    text-decoration: underline;
+}
+.pronoun{
+    font-size: 2.5rem;
+}
+.top-cloud{
+    position: absolute;
+    top:40px;
+    right: 300px;
+}
+.bottom-cloud{
+    position: absolute;
+    left: 250px;
+    bottom: 300px;
+    
+
+}
+.my-pic{
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+}
+.middle-Container{
+    display: flex;
+    align-items: center;
+    text-align: center;
+}
+h1{
+    color: #66bfbf;
+    padding-bottom: 10px;
+}
+h2{
+    color: #66bfbf;
+    padding-bottom: 10px;
+
+}
+h3{
+    color: #66bfbf;
+    padding-bottom: 10px;
+}
+
+.intro{
+    margin: auto;
+    width: 30%;
+
+}
+hr{
+    margin: 100px 0px 100px 0px;
+    border: dotted #99cccc 6px;
+    border-bottom: none;
+    width: 30px;
+    position: relative;
+    left: 48%;
+    
+}
+.skills{
+    display: block;
+}
+.skilldiv{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    margin-bottom: px;
+}
+.skill-image1{
+    width: 23%;
+    float: left;
+    margin-right: 30px;
+}
+.skill-image2{
+    height: 130px;
+    width:25%;
+    float: right;
+    margin-right: 0px;
+}
+p{
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    line-height: 2;
+}
+
+.contact-para{
+    width: 45%;
+    margin: auto;
+    margin-top: 50px;
+    margin-bottom: 50px;
+
+}
+.btn{
+    background: #11cdd4;
+    background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+    -webkit-border-radius: 8;
+    border-radius: 8px;
+    font-family: "Montserrat", sans-serif;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+
+}
+
+
+
+.bottom-container{
+    position: relative;
+    display: block;
+    background-color:#66bfbf;
+    margin-top: 100px;
+    height: 100%;
+}
+
+
+
+
+
+
+
+
